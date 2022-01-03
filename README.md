@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marcel-MSC
 - 👀 I’m interested in sciencie, games, reading, cooking
-- 🌱 I’m currently learning python, nodejs, mongodb, react
+- 🌱 I’m currently learning/working MEAN Stack
 - 💞️ I’m looking to collaborate on a private project
 - 📫 How to reach me marcelomarcos.s.c@gmail.com
