@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning/working MEAN Stack
 - 💞️ I’m looking to collaborate on a private project
 - 📫 How to reach me marcelomarcos.s.c@gmail.com
+- Web Resumé: https://marcelomsc-cv.netlify.app/
 
 
 <div>
