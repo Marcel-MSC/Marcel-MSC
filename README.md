@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcel-MSC
 - 👀 I’m interested in sciencie, games, reading, cooking
-- 🌱 I’m currently learning/working MEAN Stack
+- 🌱 I’m currently learning/working HTML5, CSS, JavaScript(Only libs) and MySQL
 - 💞️ I’m looking to collaborate on a private project
 - 📫 How to reach me marcelomarcos.s.c@gmail.com
 - Web Resumé: https://marcelomsc-cv.netlify.app/
