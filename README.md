@@ -6,10 +6,13 @@
 - Web Resumé: https://marcelomsc-cv.netlify.app/
 
 
-<div>
-  <a href="https://github.com/Marcel-MSC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcel-MSC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel-MSC"/>
+<div style="display: flex; flex-direction: column" >
+  <div>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcel-MSC" />
+  </div>
+  <div>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel-MSC"/>
+  </div>
 </div>
 
 ##
