@@ -42,3 +42,6 @@
   <img align="center" alt="SQL Server" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   
 </div>
+
+
+![snake gif](https://github.com/Marcel-MSC/Marcel-MSC/blob/output/github-contribution-grid-snake.svg)
