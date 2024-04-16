@@ -6,14 +6,24 @@
 - Web Resumé: https://marcelomsc-cv.netlify.app/
 
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Marcel-MSC&theme=dark&show_icons=true)
+<br>
+![Top lags](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel-MSC&theme=dark&show_icons=true)
+<br>
+![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Marcel-MSC&repo=portfolio-marcelo&cache_seconds=86400&theme=dark)
+
+
+<!-- 
 <div style="display: flex; flex-direction: column" >
   <div>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcel-MSC" />
+    
   </div>
   <div>
     <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel-MSC"/>
   </div>
 </div>
+-->
 
 ##
 
