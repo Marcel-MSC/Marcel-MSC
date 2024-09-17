@@ -44,7 +44,5 @@
   
 </div>
 
-<!-- 
-(url) ![snake gif](https://github.com/Marcel-MSC/Marcel-MSC/blob/output/github-contribution-grid-snake.svg)
--->
 
+![snake gif](https://github.com/Marcel-MSC/Marcel-MSC/blob/output/github-contribution-grid-snake.svg)
