@@ -44,5 +44,7 @@
   
 </div>
 
-
+<!--
+não funciona de jeito nenhum kkk
 ![snake gif](https://github.com/Marcel-MSC/Marcel-MSC/blob/output/github-contribution-grid-snake.svg)
+-->
