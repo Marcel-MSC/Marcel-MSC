@@ -1,30 +1,10 @@
 - 👋 Hi, I’m @Marcel-MSC
 - 👀 I’m interested in sciencie, games, reading, cooking
-- 🌱 I’m currently learning/working HTML5, CSS, JavaScript and MySQL
+- 🌱 I’m currently learning/working ReactJS, TypeScript, RabbitMQ and Docker
 - 💞️ I’m looking to collaborate on a private project
 - 📫 How to reach me marcelomarcos.s.c@gmail.com
 - Web Resumé: https://marcelomsc-cv.netlify.app/
 - 2D Portfolio: https://2dportfoliomarcelomsc.netlify.app/
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Marcel-MSC&theme=dark&show_icons=true)
-<br>
-![Top lags](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel-MSC&theme=dark&show_icons=true)
-<br>
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Marcel-MSC&repo=portfolio-marcelo&cache_seconds=86400&theme=dark)
-
-
-<!-- 
-<div style="display: flex; flex-direction: column" >
-  <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcel-MSC" />
-    
-  </div>
-  <div>
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel-MSC"/>
-  </div>
-</div>
--->
 
 ##
 
@@ -43,8 +23,3 @@
   <img align="center" alt="SQL Server" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   
 </div>
-
-<!--
-não funciona de jeito nenhum kkk
-![snake gif](https://github.com/Marcel-MSC/Marcel-MSC/blob/output/github-contribution-grid-snake.svg)
--->
