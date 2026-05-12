@@ -4,7 +4,7 @@ I'm a **Tech Lead** and **Full Stack Developer** with 5+ years of experience bui
 
 - 💼 Currently working as **Tech Lead** at AX4B Enterprise Solutions
 - 🎓 Studying Computer Science at Anhembi Morumbi (Expected Dec 2025)
-- 🌱 Currently deepening my knowledge in **React, TypeScript, RabbitMQ, and Docker**
+- 🌱 Currently deepening my knowledge in **Observability, RabbitMQ, and Docker**
 - 🚀 Open to collaborating on challenging full-stack or frontend projects
 - 📫 Reach me at: **marcelomarcos.s.c@gmail.com**
 
